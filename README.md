@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alixconstantin 
-- 🌱 I’m currently Node.jss & Express
+- 🌱 I’m currently learning Node.js & Express
 - 💞️ I’m looking to collaborate on anything interesting that is related to code
 - 📫 alix.constantin@gmail.com
 
