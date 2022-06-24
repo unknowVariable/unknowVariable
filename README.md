@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alixconstantin 
-- 🌱 I’m currently learning Node.js, MongoDB & Express
+- 🌱 I’m currently learning VueJs
 - 💞️ I’m looking to collaborate on anything interesting that is related to code
 - 📫 alix.constantin@gmail.com
 
