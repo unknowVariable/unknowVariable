@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alixconstantin 
-- 🌱 I’m currently learning C and Three.js for 3D render
+- 🌱 I’m currently learning C and webGL( Three.js ) and Blender for 3D render in Web
 - 💞️ I’m looking to collaborate on anything interesting that is related to code
 - 📫 alix.constantin@gmail.com
 
