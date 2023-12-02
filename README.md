@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alixconstantin 
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning C at 42 Paris 
 - 💞️ I’m looking to collaborate on anything interesting that is related to code
 - 📫 alix.constantin@gmail.com
 
