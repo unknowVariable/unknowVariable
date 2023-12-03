@@ -1,4 +1,4 @@
- 🌱 I’m currently learning C at 42 Paris  
+ 🌱 I’m currently learning C at 42 - Paris  
  📫 alix.constantin@gmail.com
 
 # 📊GitHub Stats :
