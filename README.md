@@ -1,5 +1,5 @@
  🌱 I’m currently learning C at 42 - Paris  
- 📫 aconstan@student.42.fr
+ 📫 You can mail me on aconstan@student.42.fr
 
 
 
