@@ -4,7 +4,7 @@
 
 
 
-![cat](https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&dpr=1&w=2048)
+![cat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTM3cDVrNWgwdXU4dHRzdGNnaXV4ODV0djNqMzY0amdhdDFtM2Q0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dlLrq7Vq252gx8U0of/giphy.gif)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unknowVariable&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
