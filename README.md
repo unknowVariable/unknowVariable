@@ -1,4 +1,4 @@
- 🌱 I’m currently learning C++ at 42 - Paris 🌱  
+ 🌱 I’m currently learning C, C++ at 42 - Paris 🌱  
  📫 You can contact me at aconstan@student.42.fr 📫
 
 
